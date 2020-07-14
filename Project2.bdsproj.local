@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020.06.16 08:08:35.051.pas,C:\Users\Александр\Documents\Borland Studio Projects\Unit1.pas=C:\git-clone\pr-006\Unit1.pas</Transaction>
+    <Transaction>2020.06.16 08:08:35.063.dfm,C:\Users\Александр\Documents\Borland Studio Projects\Unit1.dfm=C:\git-clone\pr-006\Unit1.dfm</Transaction>
+    <Transaction>2020.06.16 08:08:37.202.bdsproj,C:\Users\Александр\Documents\Borland Studio Projects\Project2.bdsproj=C:\git-clone\pr-006\Project2.bdsproj</Transaction>
+    <Transaction>2020.06.16 08:27:11.366.pas,C:\git-clone\pr-006\Unit2.pas=C:\git-clone\pr-006\Plugins\PluginManager.pas</Transaction>
+  </Transactions>
+</BorlandProject>

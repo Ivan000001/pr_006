@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020.06.16 08:08:55.691.bdsgroup,C:\Users\Александр\Documents\Borland Studio Projects\ProjectGroup1.bdsgroup=C:\git-clone\pr-006\ProjectGroup1.bdsgroup</Transaction>
+  </Transactions>
+  <Default.Personality>
+    <Projects ActiveProject="Project2.exe"/>
+  </Default.Personality>
+</BorlandProject>
